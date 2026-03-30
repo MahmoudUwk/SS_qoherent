@@ -7,7 +7,7 @@ Train a PyTorch/Lightning model to segment LTE and NR signals in RF spectrograms
 1. Clone the repo.
 ```bash
 git clone https://github.com/MahmoudUwk/SS_qoherent.git
-cd Spectrogram-Segmentation
+cd SS_qoherent
 ```
 
 2. Create and activate a virtual environment.
